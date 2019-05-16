@@ -13,7 +13,7 @@ export default {
   "name": "Opela",
   "description": "Insert Spacer in R Finger Phalanx Jt, Perc Endo",
   "price": "$0.63",
-   "imgUrl": "/images/t2.jpg",
+  "imgUrl": "/images/t2.jpg",
   "category": "tires",
   "rating": 3,
   "reviews": 4
